@@ -128,6 +128,7 @@ Current Portfolio Count: 797
 - [Artur Bień](https://expensive.toys/) [UI & Frontend Developer]
 - [Arup Mandal](https://arupmandal.github.io)
 - [Ashikur Rahaman](https://portfolio-by-ashik.netlify.app/)
+- [Ashish Namdeo](https://ashishnamdeo.com/)
 - [Ashish Mehra](https://ashishmehra.dev)
 - [Ashkan Misaghi](https://ashkanmisaghi.ir)
 - [Ashlee Boyer](http://ashleemboyer.dev)
